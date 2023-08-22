@@ -1,0 +1,38 @@
+.result{
+    overflow-wrap:break-word;
+  }
+  h1{
+    text-align:center;
+    font-family:helvetica;
+  }
+  h2{
+    text-align:center;
+    font-family:helvetica;
+  }
+  .class{
+    display:block;
+    margin:auto;
+  }
+  .in{
+    display:block;
+    margin:auto;
+  }
+  
+  h1 {
+    color: blue;
+    font-size: 40px;
+    
+    text-align: center;
+}
+
+body {
+    color: rgb(221, 255, 68);
+    font-size: 30px;
+    margin: center;
+    text-align: center;
+}
+body {
+  background-image: url("https://free4kwallpapers.com/uploads/originals/2015/07/18/simple-backgrounds.jpg");
+  background-size: fixed;
+  background-position: 100% 100%;
+  } 
