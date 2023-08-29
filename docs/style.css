@@ -33,6 +33,7 @@ body {
 }
 body {
   background-image: url("https://free4kwallpapers.com/uploads/originals/2015/07/18/simple-backgrounds.jpg");
-  background-size: fixed;
-  background-position: 100% 100%;
+  height: 100%;
+  background-repeat: no-repeat ;
+  
   } 
