@@ -28,3 +28,4 @@ function sortArray() {
 
   document.getElementById("output").innerText = "Sorted Array: " + sortedArray.join(", ");
 }
+
