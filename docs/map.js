@@ -37,4 +37,6 @@ function onMapClick(e) {
     alert("You clicked the map at " + e.latlng);
 }
 
+
 map.on('click', onMapClick);
+
